@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.8.1)
+  - AlamofireImage (4.3.0):
+    - Alamofire (~> 5.8)
+  - BetterSegmentedControl (2.0.1)
+  - IQKeyboardManagerSwift (6.5.16)
+  - LMCSideMenu (0.1.6)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - SideMenu (6.5.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SwiftKeychainWrapper (4.0.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - BetterSegmentedControl
+  - IQKeyboardManagerSwift
+  - LMCSideMenu
+  - SDWebImage
+  - SideMenu
+  - SQLite.swift (~> 0.12.0)
+  - SwiftKeychainWrapper
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - BetterSegmentedControl
+    - IQKeyboardManagerSwift
+    - LMCSideMenu
+    - SDWebImage
+    - SideMenu
+    - SQLite.swift
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  AlamofireImage: 843953fa97bee5f561cf05d83abd759e590b068d
+  BetterSegmentedControl: 09607b27861d49cbce48b7673b74f9150a3d371a
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  LMCSideMenu: a6703aff9090fb928311b841780afd99fcc72bfe
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: f0d9833d2fd595d68e71cfb4176b728abe96459a
+
+COCOAPODS: 1.15.2

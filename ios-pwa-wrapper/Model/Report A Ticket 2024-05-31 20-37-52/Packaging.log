@@ -1,0 +1,185 @@
+2024-05-31 15:07:47 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x172257480; archive(resolved)="<IDEArchive: 0x6000052fd5c0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	Chain (15, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x172257480; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x1726ec330; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x15ffb72d0; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1719f06b0; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1598dd870; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1598734c0; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x15fe7f730; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x15fea0e90; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2ee684300; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600002f5ea40; teamID='KJ7LSQ45J6', teamName='CDL Consultant, Inc', teamType='Company', username='justin@cdlconsultants.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1722dc370; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="(null)">
+	<IDEDistributionContext: 0x1719e3350; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="(null)">
+	<IDEDistributionContext: 0x15fe35b00; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="(null)">
+	<IDEDistributionContext: 0x1719d4220; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x600007588990>", team="(null)">
+	<IDEDistributionContext: 0x15ff95db0; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x1598b0090; archive = "<IDEArchive: 0x6000052fd5c0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x172257480>
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCopyItemStep
+2024-05-31 15:07:47 +0000  Running /usr/bin/ditto '-V' '/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root/Payload/Report A Ticket.app'
+2024-05-31 15:07:47 +0000  >>> Copying /Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app 
+2024-05-31 15:07:47 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-05-31 15:07:47 +0000  6559 bytes for ./_CodeSignature/CodeResources
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage@2x.png ... 
+2024-05-31 15:07:47 +0000  55319 bytes for ./LaunchImage@2x.png
+2024-05-31 15:07:47 +0000  copying file ./MainViewController.nib ... 
+2024-05-31 15:07:47 +0000  1008 bytes for ./MainViewController.nib
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-568h@2x.png ... 
+2024-05-31 15:07:47 +0000  61990 bytes for ./LaunchImage-568h@2x.png
+2024-05-31 15:07:47 +0000  copying file ./AppIcon60x60@2x.png ... 
+2024-05-31 15:07:47 +0000  12235 bytes for ./AppIcon60x60@2x.png
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-Portrait@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  154923 bytes for ./LaunchImage-Portrait@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Report A Ticket ... 
+2024-05-31 15:07:47 +0000  213952 bytes for ./Report A Ticket
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-Portrait~ipad.png ... 
+2024-05-31 15:07:47 +0000  74890 bytes for ./LaunchImage-Portrait~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-Landscape~ipad.png ... 
+2024-05-31 15:07:47 +0000  76512 bytes for ./LaunchImage-Landscape~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-700-Portrait~ipad.png ... 
+2024-05-31 15:07:47 +0000  74890 bytes for ./LaunchImage-700-Portrait~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Assets.car ... 
+2024-05-31 15:07:47 +0000  359288 bytes for ./Assets.car
+2024-05-31 15:07:47 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  17368 bytes for ./AppIcon76x76@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-05-31 15:07:47 +0000  2408 bytes for ./CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-05-31 15:07:47 +0000  copying file ./CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-05-31 15:07:47 +0000  924 bytes for ./CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-05-31 15:07:47 +0000  copying file ./CDVLaunchScreen.storyboardc/Info.plist ... 
+2024-05-31 15:07:47 +0000  258 bytes for ./CDVLaunchScreen.storyboardc/Info.plist
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-Landscape@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  161722 bytes for ./LaunchImage-Landscape@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-700-Landscape@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  161722 bytes for ./LaunchImage-700-Landscape@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage.png ... 
+2024-05-31 15:07:47 +0000  20021 bytes for ./LaunchImage.png
+2024-05-31 15:07:47 +0000  copying file ./embedded.mobileprovision ... 
+2024-05-31 15:07:47 +0000  27000 bytes for ./embedded.mobileprovision
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-700-Portrait@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  154923 bytes for ./LaunchImage-700-Portrait@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./LaunchImage-700-Landscape~ipad.png ... 
+2024-05-31 15:07:47 +0000  76512 bytes for ./LaunchImage-700-Landscape~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Info.plist ... 
+2024-05-31 15:07:47 +0000  1739 bytes for ./Info.plist
+2024-05-31 15:07:47 +0000  copying file ./PkgInfo ... 
+2024-05-31 15:07:47 +0000  8 bytes for ./PkgInfo
+2024-05-31 15:07:47 +0000  /usr/bin/ditto exited with 0
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionSymbolsStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionAppThinningStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionArchThinningStep
+2024-05-31 15:07:47 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root/Payload/Report A Ticket.app/Report A Ticket' '-verify_arch' 'arm64e'
+2024-05-31 15:07:47 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-05-31 15:07:47 +0000  Skipping architecture thinning for item "Report A Ticket" because arch "arm64e" wasn't found
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionODRStep
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-05-31 15:07:47 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCodesignStep
+2024-05-31 15:07:47 +0000  Entitlements for <IDEDistributionItem: 0x600081334f60; bundleID='com.reportatickets.production', path='<DVTFilePath:0x60007dcf7720:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000456c2df0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600064dc0840; name='Apple Development: richard white (KVXTE65AQ4)', hash='D3714B60623BCEB6291DDA91C8EFE8B64C9F65D6', serialNumber='34900BB114251563DC112FF6D37E12CD', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-05-07 13:49:34 +0000''>', entitlements='{
+    "application-identifier" = "KJ7LSQ45J6.com.reportatickets.production";
+    "com.apple.developer.team-identifier" = KJ7LSQ45J6;
+    "get-task-allow" = 1;
+}', teamID='KJ7LSQ45J6', identifier='com.reportatickets.production', executablePath='<DVTFilePath:0x600081ff3560:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app/Report A Ticket'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "KJ7LSQ45J6.com.reportatickets.production";
+    "com.apple.developer.team-identifier" = KJ7LSQ45J6;
+    "get-task-allow" = 0;
+}
+2024-05-31 15:07:47 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-05-31 15:07:47 +0000  Entitlements for <IDEDistributionItem: 0x600081334f60; bundleID='com.reportatickets.production', path='<DVTFilePath:0x60007dcf7720:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000456c2df0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008248e40; name='Apple Development: richard white (KVXTE65AQ4)', hash='D3714B60623BCEB6291DDA91C8EFE8B64C9F65D6', serialNumber='34900BB114251563DC112FF6D37E12CD', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-05-07 13:49:34 +0000''>', entitlements='{
+    "application-identifier" = "KJ7LSQ45J6.com.reportatickets.production";
+    "com.apple.developer.team-identifier" = KJ7LSQ45J6;
+    "get-task-allow" = 1;
+}', teamID='KJ7LSQ45J6', identifier='com.reportatickets.production', executablePath='<DVTFilePath:0x600081ff3560:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app/Report A Ticket'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "KJ7LSQ45J6.com.reportatickets.production";
+    "com.apple.developer.team-identifier" = KJ7LSQ45J6;
+    "get-task-allow" = 0;
+}
+2024-05-31 15:07:47 +0000  Writing entitlements for <IDEDistributionItem: 0x600081334f60; bundleID='com.reportatickets.production', path='<DVTFilePath:0x60007dcf7720:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000456c2df0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008249e00; name='Apple Development: richard white (KVXTE65AQ4)', hash='D3714B60623BCEB6291DDA91C8EFE8B64C9F65D6', serialNumber='34900BB114251563DC112FF6D37E12CD', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-05-07 13:49:34 +0000''>', entitlements='{
+    "application-identifier" = "KJ7LSQ45J6.com.reportatickets.production";
+    "com.apple.developer.team-identifier" = KJ7LSQ45J6;
+    "get-task-allow" = 1;
+}', teamID='KJ7LSQ45J6', identifier='com.reportatickets.production', executablePath='<DVTFilePath:0x600081ff3560:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2024-05-31/Report A Ticket 31-05-24, 7.41 PM.xcarchive/Products/Applications/Report A Ticket.app/Report A Ticket'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/entitlements~~~yTClys
+2024-05-31 15:07:47 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '1795EFB6CABF2965915F54E028CD020144A2D969' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/entitlements~~~yTClys' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root/Payload/Report A Ticket.app'
+2024-05-31 15:07:47 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root/Payload/Report A Ticket.app: replacing existing signature
+2024-05-31 15:07:47 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root/Payload/Report A Ticket.app: signed app bundle with Mach-O thin (arm64) [com.reportatickets.production]
+2024-05-31 15:07:47 +0000  /usr/bin/codesign exited with 0
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-05-31 15:07:47 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Packages/Report A Ticket.ipa'
+2024-05-31 15:07:47 +0000  >>> Copying /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root 
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/_CodeSignature/CodeResources ... 
+2024-05-31 15:07:47 +0000  6559 bytes for ./Payload/Report A Ticket.app/_CodeSignature/CodeResources
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage@2x.png ... 
+2024-05-31 15:07:47 +0000  55319 bytes for ./Payload/Report A Ticket.app/LaunchImage@2x.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/MainViewController.nib ... 
+2024-05-31 15:07:47 +0000  1008 bytes for ./Payload/Report A Ticket.app/MainViewController.nib
+copying file ./Payload/Report A Ticket.app/LaunchImage-568h@2x.png ... 
+2024-05-31 15:07:47 +0000  61990 bytes for ./Payload/Report A Ticket.app/LaunchImage-568h@2x.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/AppIcon60x60@2x.png ... 
+2024-05-31 15:07:47 +0000  12235 bytes for ./Payload/Report A Ticket.app/AppIcon60x60@2x.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-Portrait@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  154923 bytes for ./Payload/Report A Ticket.app/LaunchImage-Portrait@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/Report A Ticket ... 
+2024-05-31 15:07:47 +0000  213952 bytes for ./Payload/Report A Ticket.app/Report A Ticket
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-Portrait~ipad.png ... 
+2024-05-31 15:07:47 +0000  74890 bytes for ./Payload/Report A Ticket.app/LaunchImage-Portrait~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-Landscape~ipad.png ... 
+2024-05-31 15:07:47 +0000  76512 bytes for ./Payload/Report A Ticket.app/LaunchImage-Landscape~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-700-Portrait~ipad.png ... 
+2024-05-31 15:07:47 +0000  74890 bytes for ./Payload/Report A Ticket.app/LaunchImage-700-Portrait~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/Assets.car ... 
+2024-05-31 15:07:47 +0000  359288 bytes for ./Payload/Report A Ticket.app/Assets.car
+copying file ./Payload/Report A Ticket.app/AppIcon76x76@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  17368 bytes for ./Payload/Report A Ticket.app/AppIcon76x76@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-05-31 15:07:47 +0000  2408 bytes for ./Payload/Report A Ticket.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-05-31 15:07:47 +0000  924 bytes for ./Payload/Report A Ticket.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/CDVLaunchScreen.storyboardc/Info.plist ... 
+2024-05-31 15:07:47 +0000  258 bytes for ./Payload/Report A Ticket.app/CDVLaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Report A Ticket.app/LaunchImage-Landscape@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  161722 bytes for ./Payload/Report A Ticket.app/LaunchImage-Landscape@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-700-Landscape@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  161722 bytes for ./Payload/Report A Ticket.app/LaunchImage-700-Landscape@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage.png ... 
+2024-05-31 15:07:47 +0000  20021 bytes for ./Payload/Report A Ticket.app/LaunchImage.png
+copying file ./Payload/Report A Ticket.app/embedded.mobileprovision ... 
+2024-05-31 15:07:47 +0000  23113 bytes for ./Payload/Report A Ticket.app/embedded.mobileprovision
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-700-Portrait@2x~ipad.png ... 
+2024-05-31 15:07:47 +0000  154923 bytes for ./Payload/Report A Ticket.app/LaunchImage-700-Portrait@2x~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/LaunchImage-700-Landscape~ipad.png ... 
+2024-05-31 15:07:47 +0000  76512 bytes for ./Payload/Report A Ticket.app/LaunchImage-700-Landscape~ipad.png
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/Info.plist ... 
+2024-05-31 15:07:47 +0000  1739 bytes for ./Payload/Report A Ticket.app/Info.plist
+2024-05-31 15:07:47 +0000  copying file ./Payload/Report A Ticket.app/PkgInfo ... 
+8 bytes for ./Payload/Report A Ticket.app/PkgInfo
+2024-05-31 15:07:47 +0000  /usr/bin/ditto exited with 0
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-05-31 15:07:47 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-05-31 15:07:47 +0000  IDEDistributionItem init <DVTFilePath:0x600081c48ee0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Ox7tYN/Root/Payload/Report A Ticket.app'>
+2024-05-31 15:07:47 +0000  Processing step: IDEDistributionCreateManifestStep

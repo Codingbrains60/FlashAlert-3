@@ -1,0 +1,621 @@
+2023-11-28 11:00:05 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x29e309ce0; archive(resolved)="<IDEArchive: 0x60000f1e33c0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (15, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x29e309ce0; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x29f34a4a0; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1721be820; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1178d4ed0; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x1721a4b70; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x117d8e850; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29d708bb0; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29d7771e0; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a03e5540; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600000d5a2c0; teamID='42J6CY5276', teamName='CODING BRAINS SOFTWARE SOLUTIONS PRIVATE LIMITED', teamType='Company', username='codingbrains17@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x117d09130; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="(null)">
+	<IDEDistributionContext: 0x29c0abb60; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="(null)">
+	<IDEDistributionContext: 0x29c0751b0; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="(null)">
+	<IDEDistributionContext: 0x117889860; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000096ee410>", team="(null)">
+	<IDEDistributionContext: 0x2957f8c80; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x117d48890; archive = "<IDEArchive: 0x60000f1e33c0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x29e309ce0>
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionCopyItemStep
+2023-11-28 11:00:05 +0000  Running /usr/bin/ditto '-V' '/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app'
+2023-11-28 11:00:05 +0000  >>> Copying /Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app 
+2023-11-28 11:00:05 +0000  copying file ./de.lproj/Main.strings ... 
+2023-11-28 11:00:05 +0000  496 bytes for ./de.lproj/Main.strings
+2023-11-28 11:00:05 +0000  copying file ./de.lproj/Localizable.strings ... 
+2023-11-28 11:00:05 +0000  77 bytes for ./de.lproj/Localizable.strings
+2023-11-28 11:00:05 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-11-28 11:00:05 +0000  9839 bytes for ./_CodeSignature/CodeResources
+2023-11-28 11:00:05 +0000  copying file ./en.lproj/Main.strings ... 
+2023-11-28 11:00:05 +0000  327 bytes for ./en.lproj/Main.strings
+2023-11-28 11:00:05 +0000  copying file ./en.lproj/Localizable.strings ... 
+2023-11-28 11:00:05 +0000  72 bytes for ./en.lproj/Localizable.strings
+2023-11-28 11:00:05 +0000  copying file ./FlashAlert ... 
+2023-11-28 11:00:05 +0000  136608 bytes for ./FlashAlert
+2023-11-28 11:00:05 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-11-28 11:00:05 +0000  4790 bytes for ./AppIcon60x60@2x.png
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-ON9-GN-Pta.nib ... 
+2023-11-28 11:00:05 +0000  2664 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-ON9-GN-Pta.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/Main.storyboardc/ViewController.nib ... 
+2023-11-28 11:00:05 +0000  1945 bytes for ./Base.lproj/Main.storyboardc/ViewController.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-11-28 11:00:05 +0000  6213 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/Main.storyboardc/X7B-eX-Cfz-view-hjk-7A-ahc.nib ... 
+2023-11-28 11:00:05 +0000  2098 bytes for ./Base.lproj/Main.storyboardc/X7B-eX-Cfz-view-hjk-7A-ahc.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/Main.storyboardc/SplashViewController.nib ... 
+2023-11-28 11:00:05 +0000  1133 bytes for ./Base.lproj/Main.storyboardc/SplashViewController.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-11-28 11:00:05 +0000  373 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-11-28 11:00:05 +0000  2074 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-11-28 11:00:05 +0000  924 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-11-28 11:00:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-11-28 11:00:05 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-11-28 11:00:05 +0000  copying file ./Assets.car ... 
+2023-11-28 11:00:05 +0000  297727 bytes for ./Assets.car
+2023-11-28 11:00:05 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2023-11-28 11:00:05 +0000  6383 bytes for ./AppIcon76x76@2x~ipad.png
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2023-11-28 11:00:05 +0000  73072 bytes for ./Frameworks/libswiftCoreImage.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2023-11-28 11:00:05 +0000  89296 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2023-11-28 11:00:05 +0000  6084864 bytes for ./Frameworks/libswiftCore.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+204128 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+165504 bytes for ./Frameworks/libswiftUIKit.dylib
+copying file ./Frameworks/libswiftMetal.dylib ... 
+84752 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2023-11-28 11:00:05 +0000  346816 bytes for ./Frameworks/libswiftDispatch.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2023-11-28 11:00:05 +0000  86080 bytes for ./Frameworks/libswiftos.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2023-11-28 11:00:05 +0000  73200 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2023-11-28 11:00:05 +0000  123616 bytes for ./Frameworks/libswiftDarwin.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2023-11-28 11:00:05 +0000  76288 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2023-11-28 11:00:05 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2023-11-28 11:00:05 +0000  3039696 bytes for ./Frameworks/libswiftFoundation.dylib
+2023-11-28 11:00:05 +0000  copying file ./embedded.mobileprovision ... 
+26842 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1324 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2023-11-28 11:00:05 +0000  8 bytes for ./PkgInfo
+2023-11-28 11:00:05 +0000  /usr/bin/ditto exited with 0
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0db00; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0eca0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017726cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe76f40; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe64180; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db9d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0edc0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177263f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0d560; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177260d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe74d80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0df80; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177258b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe74ea0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0d4a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177252c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe0daa0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725310; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Skipping profile for item: <IDEDistributionItem: 0x60000fe74cc0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionSymbolsStep
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionAppThinningStep
+2023-11-28 11:00:05 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionArchThinningStep
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftCore.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftCoreFoundation.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftCoreGraphics.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftCoreImage.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftDarwin.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftDispatch.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftFoundation.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftMetal.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftObjectiveC.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftQuartzCore.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftUIKit.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "libswiftos.dylib" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/FlashAlert' '-verify_arch' 'arm64e'
+2023-11-28 11:00:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-28 11:00:05 +0000  Skipping architecture thinning for item "FlashAlert" because arch "arm64e" wasn't found
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionODRStep
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2023-11-28 11:00:05 +0000  Processing step: IDEDistributionCodesignStep
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0db00; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0db00; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0db00; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eac0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x60000bf66680:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~AHsZ1U
+2023-11-28 11:00:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~AHsZ1U' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCore.dylib'
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCore.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCore]
+2023-11-28 11:00:05 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0eca0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017726cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0eca0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017726cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eac0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0eca0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017726cb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618c540; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x60000ba60f80:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~B752x9
+2023-11-28 11:00:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~B752x9' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2023-11-28 11:00:05 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe76f40; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe76f40; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe76f40; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed6700; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x60000ba61280:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~e0JXSL
+2023-11-28 11:00:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~e0JXSL' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2023-11-28 11:00:05 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe64180; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db9d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe64180; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db9d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe64180; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db9d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed6700; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x60000bf53640:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~zgcHEd
+2023-11-28 11:00:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~zgcHEd' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreImage]
+2023-11-28 11:00:05 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0edc0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177263f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0edc0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177263f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eac0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0edc0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177263f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618c540; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x60000bf01570:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~JHlOmJ
+2023-11-28 11:00:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~JHlOmJ' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib'
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftDarwin]
+2023-11-28 11:00:05 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0d560; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177260d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed61c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:05 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:05 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0d560; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177260d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed4f00; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:05 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0d560; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177260d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618eb80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x60000bf01180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~8gNFNe
+2023-11-28 11:00:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~8gNFNe' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib'
+2023-11-28 11:00:05 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftDispatch]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe74d80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618e100; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe74d80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed6340; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe74d80; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177db0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed5f80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x60000ba61980:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~EaZtaU
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~EaZtaU' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftFoundation]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0df80; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177258b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618e100; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0df80; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177258b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618f180; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0df80; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177258b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618ed00; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x60000bf01340:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~hq2zSR
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~hq2zSR' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftMetal]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe74ea0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ec2f40; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe74ea0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618e100; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe74ea0; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8690; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618f180; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x600007a78380:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~DCjbZ8
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~DCjbZ8' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0d4a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177252c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618e100; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0d4a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177252c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618f180; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0d4a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177252c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618ed00; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x60000ba61180:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~XLE4q6
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~XLE4q6' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0daa0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725310; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed6340; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe0daa0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725310; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618e100; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe0daa0; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600017725310; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed5f80; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x60000bf01260:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~z87oNK
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~z87oNK' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftUIKit]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe74cc0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ec2f40; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe74cc0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ec21c0; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe74cc0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177d8aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ec1800; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='(null)', teamID='42J6CY5276', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x60000bf01420:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~fzwwXr
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~fzwwXr' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftos.dylib'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftos.dylib: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftos.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftos]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe48fc0; bundleID='com.flashAlert.iOS', path='<DVTFilePath:0x60000bf480e0:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177391d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000618e100; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='{
+    "application-identifier" = "42J6CY5276.com.flashAlert.iOS";
+    "com.apple.developer.team-identifier" = 42J6CY5276;
+    "get-task-allow" = 1;
+}', teamID='42J6CY5276', identifier='com.flashAlert.iOS', executablePath='<DVTFilePath:0x60000bf03a30:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/FlashAlert'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "42J6CY5276.com.flashAlert.iOS";
+    "com.apple.developer.team-identifier" = 42J6CY5276;
+    "get-task-allow" = 0;
+}
+2023-11-28 11:00:06 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2023-11-28 11:00:06 +0000  Entitlements for <IDEDistributionItem: 0x60000fe48fc0; bundleID='com.flashAlert.iOS', path='<DVTFilePath:0x60000bf480e0:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177391d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed6340; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='{
+    "application-identifier" = "42J6CY5276.com.flashAlert.iOS";
+    "com.apple.developer.team-identifier" = 42J6CY5276;
+    "get-task-allow" = 1;
+}', teamID='42J6CY5276', identifier='com.flashAlert.iOS', executablePath='<DVTFilePath:0x60000bf03a30:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/FlashAlert'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "42J6CY5276.com.flashAlert.iOS";
+    "com.apple.developer.team-identifier" = 42J6CY5276;
+    "get-task-allow" = 0;
+}
+2023-11-28 11:00:06 +0000  Writing entitlements for <IDEDistributionItem: 0x60000fe48fc0; bundleID='com.flashAlert.iOS', path='<DVTFilePath:0x60000bf480e0:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000177391d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600002ed4e40; name='Apple Development: Deepak Shukla (6QU36RREL7)', hash='B92370D5CCB218EFC4EEE170B28FCDC44E9C0CB7', serialNumber='1C966491A81E24B6AA48BBDE3E26068D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-09-13 16:51:19 +0000''>', entitlements='{
+    "application-identifier" = "42J6CY5276.com.flashAlert.iOS";
+    "com.apple.developer.team-identifier" = 42J6CY5276;
+    "get-task-allow" = 1;
+}', teamID='42J6CY5276', identifier='com.flashAlert.iOS', executablePath='<DVTFilePath:0x60000bf03a30:'/Users/codingbrains-iOS/Library/Developer/Xcode/Archives/2023-11-28/FlashAlert 28-11-23, 4.27 PM.xcarchive/Products/Applications/FlashAlert.app/FlashAlert'>', hardenedRuntime='0'>'> to: /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~WniIdP
+2023-11-28 11:00:06 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'ADE5FAC757F45770A92889EE6459EA67710A1296' '--entitlements' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/entitlements~~~WniIdP' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app'
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app: replacing existing signature
+2023-11-28 11:00:06 +0000  /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app: signed app bundle with Mach-O thin (arm64) [com.flashAlert.iOS]
+2023-11-28 11:00:06 +0000  /usr/bin/codesign exited with 0
+2023-11-28 11:00:06 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-28 11:00:06 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-11-28 11:00:06 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root' '/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Packages/FlashAlert.ipa'
+2023-11-28 11:00:06 +0000  >>> Copying /var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root 
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/de.lproj/Main.strings ... 
+2023-11-28 11:00:06 +0000  496 bytes for ./Payload/FlashAlert.app/de.lproj/Main.strings
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/de.lproj/Localizable.strings ... 
+77 bytes for ./Payload/FlashAlert.app/de.lproj/Localizable.strings
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/_CodeSignature/CodeResources ... 
+2023-11-28 11:00:06 +0000  9839 bytes for ./Payload/FlashAlert.app/_CodeSignature/CodeResources
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/en.lproj/Main.strings ... 
+2023-11-28 11:00:06 +0000  327 bytes for ./Payload/FlashAlert.app/en.lproj/Main.strings
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/en.lproj/Localizable.strings ... 
+2023-11-28 11:00:06 +0000  72 bytes for ./Payload/FlashAlert.app/en.lproj/Localizable.strings
+copying file ./Payload/FlashAlert.app/FlashAlert ... 
+2023-11-28 11:00:06 +0000  136640 bytes for ./Payload/FlashAlert.app/FlashAlert
+copying file ./Payload/FlashAlert.app/AppIcon60x60@2x.png ... 
+2023-11-28 11:00:06 +0000  4790 bytes for ./Payload/FlashAlert.app/AppIcon60x60@2x.png
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/UINavigationController-ON9-GN-Pta.nib ... 
+2023-11-28 11:00:06 +0000  2664 bytes for ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/UINavigationController-ON9-GN-Pta.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/ViewController.nib ... 
+2023-11-28 11:00:06 +0000  1945 bytes for ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/ViewController.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-11-28 11:00:06 +0000  6213 bytes for ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/X7B-eX-Cfz-view-hjk-7A-ahc.nib ... 
+2023-11-28 11:00:06 +0000  2098 bytes for ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/X7B-eX-Cfz-view-hjk-7A-ahc.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/SplashViewController.nib ... 
+2023-11-28 11:00:06 +0000  1133 bytes for ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/SplashViewController.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2023-11-28 11:00:06 +0000  373 bytes for ./Payload/FlashAlert.app/Base.lproj/Main.storyboardc/Info.plist
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-11-28 11:00:06 +0000  2074 bytes for ./Payload/FlashAlert.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-11-28 11:00:06 +0000  924 bytes for ./Payload/FlashAlert.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/FlashAlert.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Assets.car ... 
+2023-11-28 11:00:06 +0000  297727 bytes for ./Payload/FlashAlert.app/Assets.car
+copying file ./Payload/FlashAlert.app/AppIcon76x76@2x~ipad.png ... 
+2023-11-28 11:00:06 +0000  6383 bytes for ./Payload/FlashAlert.app/AppIcon76x76@2x~ipad.png
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib ... 
+2023-11-28 11:00:06 +0000  73456 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib ... 
+2023-11-28 11:00:06 +0000  89680 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Frameworks/libswiftCore.dylib ... 
+2023-11-28 11:00:06 +0000  6085248 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2023-11-28 11:00:06 +0000  204512 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib ... 
+2023-11-28 11:00:06 +0000  165904 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib ... 
+2023-11-28 11:00:06 +0000  85152 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib ... 
+2023-11-28 11:00:06 +0000  347200 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftos.dylib ... 
+2023-11-28 11:00:06 +0000  86464 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftos.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2023-11-28 11:00:06 +0000  73600 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib ... 
+2023-11-28 11:00:06 +0000  124000 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib ... 
+2023-11-28 11:00:06 +0000  76672 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib
+copying file ./Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib ... 
+2023-11-28 11:00:06 +0000  3040096 bytes for ./Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib
+2023-11-28 11:00:06 +0000  copying file ./Payload/FlashAlert.app/embedded.mobileprovision ... 
+2023-11-28 11:00:06 +0000  25187 bytes for ./Payload/FlashAlert.app/embedded.mobileprovision
+copying file ./Payload/FlashAlert.app/Info.plist ... 
+2023-11-28 11:00:06 +0000  1324 bytes for ./Payload/FlashAlert.app/Info.plist
+copying file ./Payload/FlashAlert.app/PkgInfo ... 
+8 bytes for ./Payload/FlashAlert.app/PkgInfo
+2023-11-28 11:00:06 +0000  /usr/bin/ditto exited with 0
+2023-11-28 11:00:06 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-11-28 11:00:06 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-11-28 11:00:06 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf4e6f0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftos.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf4e6f0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftos.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000790d600:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000790d600:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreGraphics.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf0bd40:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf0bd40:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftMetal.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf70fc0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCore.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf70fc0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCore.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000790dc00:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000790dc00:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreFoundation.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf17aa0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf17aa0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftUIKit.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf090a0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf090a0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDispatch.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf70f50:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf70f50:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftCoreImage.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000790d780:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000790d780:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftQuartzCore.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000790ea80:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000790ea80:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftObjectiveC.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000790cd00:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000790cd00:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftFoundation.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x60000bf009a0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>
+2023-11-28 11:00:06 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x60000bf009a0:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app/Frameworks/libswiftDarwin.dylib'>
+2023-11-28 11:00:06 +0000  IDEDistributionItem init <DVTFilePath:0x600007df7950:'/var/folders/5q/3bm4hwln0zx7sktlsqpddv080000gp/T/XcodeDistPipeline.~~~Xde9Q7/Root/Payload/FlashAlert.app'>
+2023-11-28 11:00:06 +0000  Processing step: IDEDistributionCreateManifestStep
